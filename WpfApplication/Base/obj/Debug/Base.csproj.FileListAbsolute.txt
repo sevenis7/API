@@ -1,0 +1,6 @@
+C:\Users\callm\source\repos\19\Base\bin\Debug\Base.dll
+C:\Users\callm\source\repos\19\Base\bin\Debug\Base.pdb
+C:\Users\callm\source\repos\19\Base\obj\Debug\Base.csproj.AssemblyReference.cache
+C:\Users\callm\source\repos\19\Base\obj\Debug\Base.csproj.CoreCompileInputs.cache
+C:\Users\callm\source\repos\19\Base\obj\Debug\Base.dll
+C:\Users\callm\source\repos\19\Base\obj\Debug\Base.pdb

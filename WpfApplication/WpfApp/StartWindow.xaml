@@ -1,0 +1,46 @@
+﻿<Window x:Class="WpfApp.StartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="StartWindow" Height="300" Width="500"
+        x:Name="startWindow">
+    <Window.Resources>
+        
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Margin="15" Content="Войти" Grid.Column="0" Command="{Binding Login}" CommandParameter="{Binding ElementName=startWindow}" />
+            <Button Margin="15" Content="Войти без авторизации" Grid.Column="1" Command="{Binding Unauthorized}" CommandParameter="{Binding ElementName=startWindow}" />
+            <Button Margin="15" Content="Регистрация" Grid.Column="2" Command="{Binding Registration}" CommandParameter="{Binding ElementName=startWindow}"/>
+        </Grid>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Content="Введите имя пользователя" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"/>
+            <TextBox x:Name="userNametxt" Grid.Row="1" Margin="70,0" FontSize="20" VerticalAlignment="Center" />
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Content="Введите пароль" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"/>
+            <TextBox x:Name="passwordtxt" Grid.Row="1" Margin="70,0" FontSize="20" VerticalAlignment="Center" />
+        </Grid>
+    </Grid>
+</Window>

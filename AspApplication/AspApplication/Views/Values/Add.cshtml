@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Создание контакта";
+}
+@model Contact
+<form asp-action="Add">
+    <input asp-for="LastName" value=""><br />
+    <input asp-for="FirstName"/><br />
+    <input asp-for="MiddleName"/><br />
+    <input asp-for="PhoneNumber"/><br />
+    <input asp-for="Addres"/><br />
+    <input asp-for="Description"/><br/>
+    <input type="submit" value="Создать"/>
+</form>

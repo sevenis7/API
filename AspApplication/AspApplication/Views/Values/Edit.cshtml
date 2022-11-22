@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Редактирование контакта";
+}
+@model Contact
+<form asp-action="Edit">
+    <input asp-for="LastName" value="@Model.LastName"/><br />
+    <input asp-for="FirstName" value="@Model.FirstName" /><br />
+    <input asp-for="MiddleName" value="@Model.MiddleName"/><br />
+    <input asp-for="PhoneNumber" value="@Model.PhoneNumber" /><br />
+    <input asp-for="Addres" value="@Model.Addres" /><br />
+    <input asp-for="Description" value="@Model.Description" /><br />
+    <input type="submit" value="Изменить" />
+</form>

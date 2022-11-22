@@ -1,0 +1,67 @@
+﻿<Window x:Class="WpfApp.AddContactWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="AddContactWindow" Height="550" Width="400"
+        x:Name="addContactWindow">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="15,0" />
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="15"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Grid.Row" Value="6"/>
+            <Setter Property="Margin" Value="15"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Grid.ColumnSpan="2" >
+            <Label >Введите фамилию</Label>
+            <TextBox x:Name="lastNametxt"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="2">
+            <Label>Введите имя</Label>
+            <TextBox x:Name="firstNametxt"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2">
+            <Label>Введите отчество</Label>
+            <TextBox x:Name="middleNametxt"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Grid.ColumnSpan="2">
+            <Label>Введите номер телефона</Label>
+            <TextBox x:Name="phoneNumbertxt"/>
+        </StackPanel>
+        <StackPanel Grid.Row="4" Grid.ColumnSpan="2">
+            <Label>Введите адрес</Label>
+            <TextBox x:Name="addrestxt"/>
+        </StackPanel>
+        <StackPanel Grid.Row="5" Grid.ColumnSpan="2">
+            <Label>Введите описание</Label>
+            <TextBox x:Name="descriptiontxt"/>
+        </StackPanel>
+        <Button Grid.Column="0" Content="Добавить" Command="{Binding Add}" CommandParameter="{Binding ElementName=addContactWindow}"></Button>
+        <Button Grid.Column="1" Content="Отмена" Command="{Binding Cancel}" CommandParameter="{Binding ElementName=addContactWindow}"></Button>
+    </Grid>
+</Window>

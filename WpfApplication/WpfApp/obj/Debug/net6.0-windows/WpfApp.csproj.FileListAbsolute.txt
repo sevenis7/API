@@ -1,0 +1,186 @@
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.AssemblyReference.cache
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.cache
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.lref
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\WpfApp.exe
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\WpfApp.deps.json
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\WpfApp.runtimeconfig.json
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\WpfApp.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\WpfApp.pdb
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Http.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\AspApplication.BLL.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\AspApplication.DAL.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\AspApplication.Domain.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Base.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\Base.pdb
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\AspApplication.BLL.pdb
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\AspApplication.DAL.pdb
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\bin\Debug\net6.0-windows\AspApplication.Domain.pdb
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp.g.resources
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfoInputs.cache
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfo.cs
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CopyComplete
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\refint\WpfApp.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp.pdb
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\WpfApp.genruntimeconfig.cache
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\ref\WpfApp.dll
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\AddContactWindow.g.cs
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\AddContactWindow.baml
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\AboutWindow.g.cs
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\AboutWindow.baml
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\EditContactWindow.g.cs
+C:\Users\callm\Desktop\API\WpfApplication\WpfApp\obj\Debug\net6.0-windows\EditContactWindow.baml
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.AssemblyReference.cache
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\AboutWindow.g.cs
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\AddContactWindow.g.cs
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\EditContactWindow.g.cs
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.cache
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.lref
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\refint\WpfApp.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp.pdb
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\WpfApp.exe
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\WpfApp.deps.json
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\WpfApp.runtimeconfig.json
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\WpfApp.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\WpfApp.pdb
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Http.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\AspApplication.BLL.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\AspApplication.DAL.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\AspApplication.Domain.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Base.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\AspApplication.BLL.pdb
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\Base.pdb
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\AspApplication.DAL.pdb
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\bin\Debug\net6.0-windows\AspApplication.Domain.pdb
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\AboutWindow.baml
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\AddContactWindow.baml
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\EditContactWindow.baml
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp.g.resources
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfoInputs.cache
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfo.cs
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CopyComplete
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\WpfApp.genruntimeconfig.cache
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\ref\WpfApp.dll
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\StartWindow.g.cs
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\StartWindow.baml
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\callm\Desktop\API\WpfApplication — копия\WpfApp\obj\Debug\net6.0-windows\RegistrationWindow.baml

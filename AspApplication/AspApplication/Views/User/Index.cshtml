@@ -1,0 +1,7 @@
+﻿@model List<User>
+@foreach (var e in Model)
+{
+   @e.UserName
+   <a asp-action="Delete" asp-route-userName=@e.UserName>Удалить</a>
+   <br />
+}

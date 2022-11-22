@@ -1,0 +1,7 @@
+﻿@model List<Contact>
+@foreach(var e in Model){
+    <a asp-action="Contact" asp-route-id=@e.Id>@e.Id @e.FirstName </a>
+    <a asp-action="Delete" asp-route-id=@e.Id>Удалить</a> 
+    <a asp-action="Edit" asp-route-id=@e.Id>Изменить</a><br/>
+}
+<a asp-action="Add">Создать</a>

@@ -1,0 +1,50 @@
+﻿<Window x:Class="WpfApp.EditContactWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="EditContactWindow" Height="450" Width="400"
+        x:Name="editWindow">
+    <Window.Resources>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="23"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="23"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Фамилия:" HorizontalAlignment="Left"/>
+        <Label Grid.Row="1" Grid.Column="0" Content="Имя:" HorizontalAlignment="Left"/>
+        <Label Grid.Row="2" Grid.Column="0" Content="Отчество:" HorizontalAlignment="Left"/>
+        <Label Grid.Row="3" Grid.Column="0" Content="Номер телефона:" HorizontalAlignment="Left"/>
+        <Label Grid.Row="4" Grid.Column="0" Content="Адрес:" HorizontalAlignment="Left"/>
+        <Label Grid.Row="5" Grid.Column="0" Content="Описание:" HorizontalAlignment="Left"/>
+        <TextBox x:Name="lastNametxt" Grid.Row="0" Grid.Column="1" Text="{Binding Contact.LastName}"/>
+        <TextBox x:Name="firstNametxt" Grid.Row="1" Grid.Column="1" Text="{Binding Contact.FirstName}"/>
+        <TextBox x:Name="middleNametxt" Grid.Row="2" Grid.Column="1" Text="{Binding Contact.MiddleName}"/>
+        <TextBox x:Name="phoneNumbertxt" Grid.Row="3" Grid.Column="1" Text="{Binding Contact.PhoneNumber}"/>
+        <TextBox x:Name="addrestxt" Grid.Row="4" Grid.Column="1" Text="{Binding Contact.Addres}"/>
+        <TextBox x:Name="descriptiontxt" Grid.Row="5" Grid.Column="1" Text="{Binding Contact.Description}"/>
+        <Button Grid.Row="6" Grid.Column="0" Content="Сохранить" FontSize="20" Width="120" Height="33" 
+                Command="{Binding Save}" CommandParameter="{Binding ElementName=editWindow}"/>
+        <Button Grid.Row="6" Grid.Column="1" Content="Отмена" FontSize="20" Width="120" Height="33" 
+                Command="{Binding Cancel}" CommandParameter="{Binding ElementName=editWindow}"/>
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+﻿@{
+    ViewBag.Title = "Login window";
+}
+@model UserLogin
+<form asp-action="Login">
+    <input asp-for="UserName" placeholder="Введите имя" /></br>
+    <input asp-for="Password" placeholder="Введите пароль" /></br>
+    <input type="submit" value="Войти" />
+</form>

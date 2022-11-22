@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Register window";
+}
+@model UserRegistration
+<form asp-action="Register">
+    <input asp-for="UserName" placeholder="Введите имя" /></br>
+    <input asp-for="Password" placeholder="Введите пароль" /></br>
+    <input asp-for="ConfirmPassword" placeholder="Подтвердите пароль" /></br>
+    @foreach (var item in Enum.GetValues(typeof(Role)))
+    {
+        <input type="radio" name="role" id="Role" value="@item"> @item <br />
+    }
+    <input type="submit" value="Регистрация" />
+</form>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "JWcaonKwznfe7+fbxvrwvvyW08WAQY5xaE067gDLsjU=",
+  "Source": "AspApplication",
+  "BasePath": "_content/AspApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspApplication\\wwwroot",
+      "Source": "AspApplication",
+      "ContentRoot": "C:\\Users\\callm\\Desktop\\API\\AspApplication\\AspApplication\\wwwroot\\",
+      "BasePath": "_content/AspApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\callm\\Desktop\\API\\AspApplication\\AspApplication\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "AspApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\callm\\Desktop\\API\\AspApplication\\AspApplication\\wwwroot\\",
+      "BasePath": "_content/AspApplication",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    }
+  ]
+}
